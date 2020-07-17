@@ -1,2 +1,5 @@
 type sdcard_posix, sdcard_type, sdcard_posix_contextmount_type, fs_type, mlstrustedobject;
 type sysfs_io_sched_tuneable, fs_type, sysfs_type;
+
+# FPS Info
+type sysfs_fps, sysfs_type, fs_type;
