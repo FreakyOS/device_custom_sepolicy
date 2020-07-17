@@ -20,3 +20,6 @@
 
 # Bash
 /system/xbin/bash          u:object_r:shell_exec:s0
+
+# FPS Info
+/sys/devices/virtual/graphics/fb0/measured_fps           u:object_r:sysfs_fps:s0
